@@ -9,21 +9,21 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Notes/01-InitialNotes.md",
             "mode": "source",
             "source": true
           }
         }
       },
       {
-        "id": "5a1cc7919117f498",
+        "id": "b84bcdfcdcf6606a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Notes/01-InitialNotes.md",
             "mode": "preview",
-            "source": false
+            "source": true
           }
         }
       }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Notes/01-InitialNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +102,7 @@
   },
   "active": "c3145c6110b40c64",
   "lastOpenFiles": [
+    "Notes/01-InitialNotes.md",
     "README.md"
   ]
 }
